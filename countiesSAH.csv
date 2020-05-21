@@ -1,0 +1,169 @@
+county,state,obs,soft,hard
+State,Alabama,318,,4/3/2020
+Jefferson,Alabama,318,,3/24/2020
+State,Alaska,59,3/16/2020,3/28/2020
+State,Arizona,182,3/13/2020,3/31/2020
+State,Arkansas,340,3/17/2020,
+State,California,950,3/17/2020,3/19/2020
+State,Colorado,451,3/1/2020,3/26/2020
+State,Connecticut,100,3/15/2020,3/23/2020
+State,Delaware,38,3/15/2020,3/24/2020
+State,District of Columbia,21,,4/1/2020
+State,Florida,636,3/16/2020,4/3/2020
+Palm Coast,Florida,636,3/16/2020,3/22/2020
+Alachua,Florida,,,3/24/2020
+Broward,Florida,,,3/27/2020
+Hillsborough,Florida,,,3/27/2020
+Leon,Florida,,,3/25/2020
+Miami-Dade,Florida,,,3/25/2020
+Monroe,Florida,,,3/30/2020
+Orange,Florida,,,3/26/2020
+Osceola,Florida,,,3/26/2020
+Palm Beach,Florida,,,3/30/2020
+Pinellas,Florida,,,3/26/2020
+State,Georgia,855,3/18/2020,4/3/2020
+Atlanta,Georgia,855,3/18/2020,3/24/2020
+Blakely,Georgia,,,3/24/2020
+Carrollton,Georgia,,,3/25/2020
+Savannah,Georgia,,,3/24/2020
+Athens-Clarke,Georgia,,,3/20/2020
+Dougherty,Georgia,,,3/21/2020
+State,Guam,13,,
+State,Hawaii,65,3/17/2020,3/25/2020
+State,Idaho,122,3/18/2020,3/25/2020
+State,Illinois,412,3/13/2020,3/21/2020
+State,Indiana,501,3/16/2020,3/24/2020
+State,Iowa,290,3/17/2020,
+State,Kansas,204,3/16/2020,3/30/2020
+State,Kentucky,326,3/16/2020,3/26/2020
+State,Louisiana,444,3/16/2020,3/22/2020
+State,Maine,117,3/15/2020,3/25/2020
+State,Maryland,245,3/16/2020,3/30/2020
+State,Massachusetts,259,3/15/2020,3/24/2020
+State,Michigan,429,3/16/2020,3/24/2020
+State,Minnesota,362,3/17/2020,3/27/2020
+State,Mississippi,503,,4/3/2020
+Oxford,Mississippi,503,,3/22/2020
+Lauderdale,Mississippi,,,3/31/2020
+State,Missouri,,,4/6/2020
+Kansas City,Missouri,,,3/24/2020
+St Joseph,Missouri,,,3/24/2020
+St Louis,Missouri,,,3/23/2020
+Boone,Missouri,,,3/25/2020
+Cass,Missouri,,,3/24/2020
+Clay,Missouri,,,3/24/2020
+Cole,Missouri,,,3/23/2020
+Greene,Missouri,,,3/26/2020
+Jackson,Missouri,,,3/24/2020
+Jefferson,Missouri,,,3/24/2020
+Platte,Missouri,,,3/24/2020
+Randolph,Missouri,,,3/25/2020
+Ray,Missouri,,,3/25/2020
+St Louis County,Missouri,,,3/23/2020
+State,Montana,139,3/16/2020,3/28/2020
+State,Nebraska,152,,
+State,Nevada,96,3/17/2020,4/1/2020
+State,New Hampshire,113,3/16/2020,3/27/2020
+State,New Jersey,323,3/16/2020,3/21/2020
+State,New Mexico,135,3/16/2020,3/24/2020
+State,New York,625,3/16/2020,3/22/2020
+State,North Carolina,503,3/17/2020,3/30/2020
+State,North Dakota,84,3/30/2020,
+State,Ohio,475,3/15/2020,3/23/2020
+State,Oklahoma,232,,
+Claremore,Oklahoma,,,4/6/2020
+Edmond,Oklahoma,232,,3/30/2020
+Moore,Oklahoma,,,4/4/2020
+Norman,Oklahoma,232,,3/25/2020
+Oklahoma City,Oklahoma,,,3/28/2020
+Sallisaw,Oklahoma,,,4/4/2020
+Stillwater,Oklahoma,,,3/30/2020
+Tulsa,Oklahoma,,,3/28/2020
+State,Oregon,290,3/16/2020,3/23/2020
+State,Pennsylvania,441,3/16/2020,4/1/2020
+Allegheny,Pennsylvania,,,3/23/2020
+Beaver,Pennsylvania,,,3/28/2020
+Berks,Pennsylvania,,,3/27/2020
+Bucks,Pennsylvania,,,3/23/2020
+Butler,Pennsylvania,,,3/27/2020
+Cameron,Pennsylvania,,,3/31/2020
+Carbon,Pennsylvania,,,3/30/2020
+Centre,Pennsylvania,,,3/28/2020
+Chester,Pennsylvania,,,3/23/2020
+Crawford,Pennsylvania,,,3/31/2020
+Cumberland,Pennsylvania,,,3/30/2020
+Dauphin,Pennsylvania,,,3/30/2020
+Delaware,Pennsylvania,,,3/23/2020
+Erie,Pennsylvania,,,3/24/2020
+Forest,Pennsylvania,,,3/31/2020
+Franklin,Pennsylvania,,,3/31/2020
+Lackawanna,Pennsylvania,,,3/27/2020
+Lancaster,Pennsylvania,,,3/27/2020
+Lawrence,Pennsylvania,,,3/31/2020
+Lebanon,Pennsylvania,,,3/31/2020
+Lehigh,Pennsylvania,,,3/25/2020
+Luzerne,Pennsylvania,,,3/27/2020
+Monroe,Pennsylvania,,,3/23/2020
+Montgomery,Pennsylvania,,,3/23/2020
+Northampton,Pennsylvania,,,3/25/2020
+Philadelphia,Pennsylvania,,,3/23/2020
+Pike,Pennsylvania,,,3/27/2020
+Schuykill,Pennsylvania,,,3/30/2020
+Somerset,Pennsylvania,,,3/31/2020
+Washington,Pennsylvania,,,3/28/2020
+Wayne,Pennsylvania,,,3/27/2020
+Westmoreland,Pennsylvania,,,3/27/2020
+York,Pennsylvania,,,3/27/2020
+State,Puerto Rico,15,,3/15/2020
+State,Rhode Island,42,3/17/2020,3/28/2020
+State,South Carolina,370,3/18/2020,4/7/2020
+Charleston,South Carolina,,,3/26/2020
+Columbia,South Carolina,,,3/29/2020
+State,South Dakota,145,,
+State,Tennessee,465,,3/31/2020
+State,Texas,717,,4/2/2020
+Amarillo,Texas,,,3/30/2020
+Bell,Texas,,,3/23/2020
+Bexar,Texas,,,3/24/2020
+Brazoria,Texas,,,3/26/2020
+Cameron,Texas,,,3/25/2020
+Chambers,Texas,,,3/24/2020
+Collin,Texas,,,3/24/2020
+Dallas,Texas,,,3/23/2020
+Denton,Texas,,,3/25/2020
+El Paso,Texas,,,3/24/2020
+Ellis,Texas,,,3/25/2020
+Fort Bend,Texas,,,3/25/2020
+Galveston,Texas,,,3/24/2020
+Gregg,Texas,,,3/26/2020
+Harris,Texas,,,3/24/2020
+Hays,Texas,,,3/26/2020
+Hildalgo,Texas,,,3/26/2020
+Hunt,Texas,,,3/24/2020
+Kaufman,Texas,,,3/25/2020
+Liberty,Texas,,,3/24/2020
+McLennon,Texas,,,3/23/2020
+Nacogdoches,Texas,,,3/30/2020
+Nueces,Texas,,,3/26/2020
+Polk,Texas,,,3/27/2020
+Roberston,Texas,,,3/25/2020
+Rockwall,Texas,,,3/24/2020
+San Jacinto,Texas,,,3/25/2020
+Scurry,Texas,,,3/27/2020
+Smith,Texas,,,3/27/2020
+Starr,Texas,,,3/25/2020
+Tarrant,Texas,,,3/24/2020
+Travis,Texas,,,3/24/2020
+Willacy,Texas,,,3/26/2020
+Williamson,Texas,,,3/24/2020
+State,Utah,175,3/16/2020,
+Davis,Utah,,,4/1/2020
+Salt Lake,Utah,,,3/30/2020
+Summit,Utah,,,3/27/2020
+State,Vermont,124,3/18/2020,3/25/2020
+State,Virgin Islands,14,,
+State,Virginia,492,3/17/2020,3/30/2020
+State,Washington,547,3/15/2020,3/23/2020
+State,West Virginia,105,,3/24/2020
+State,Wisconsin,383,3/17/2020,3/25/2020
+State,Wyoming,100,,3/28/2020
