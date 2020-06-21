@@ -70,7 +70,7 @@ server <- function(input, output, session) {
     arrange(state, county, date) %>% #reorder to make reading the data file more intuitive
     mutate(cs = paste(county, " ", state), fips = NULL) # create 2 new variables ...
   
-  # write.csv(counties, "counties.csv")
+   write.csv(counties, "counties.csv")
   
   countygov <- read.csv("countiesSAH.csv", stringsAsFactors = FALSE) %>% 
     filter(county != "State") %>% mutate(cs = paste(county, " ", state)) %>% 
